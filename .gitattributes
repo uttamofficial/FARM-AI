@@ -1,0 +1,2 @@
+D:/FarmAI(1)/model/pest_risk_model.joblib filter=lfs diff=lfs merge=lfs -text
+model/pest_risk_model.joblib filter=lfs diff=lfs merge=lfs -text
